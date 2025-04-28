@@ -1,0 +1,367 @@
+Using pre-set license
+Built from '2023.2/staging' branch; Version is '2023.2.20f1 (0e25a174756c) revision 927137'; Using compiler version '193431935'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26100) 64bit Enterprise' Language: 'en' Physical Memory: 65254 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity 2023.2.20f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+C:/Users/rturner007/Documents/GitHub/project-1-unity-3d-Para-Finn/AIProject
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+56446
+-job-worker-count
+15
+-background-job-worker-count
+8
+-asset-garbage-collectors
+1
+Successfully changed project path to: C:/Users/rturner007/Documents/GitHub/project-1-unity-3d-Para-Finn/AIProject
+C:/Users/rturner007/Documents/GitHub/project-1-unity-3d-Para-Finn/AIProject
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [27364] Host "[IP] 10.165.1.113 [Port] 0 [Flags] 2 [Guid] 4010167559 [EditorId] 4010167559 [Version] 1048832 [Id] WindowsEditor(7,MCS-7ZSB8Y3) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [27364] Host "[IP] 10.165.1.113 [Port] 0 [Flags] 2 [Guid] 4010167559 [EditorId] 4010167559 [Version] 1048832 [Id] WindowsEditor(7,MCS-7ZSB8Y3) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 15
+[Physics::Module] Initialized MultithreadedJobDispatcher with 15 workers.
+Library Redirect Path: Library/
+Refreshing native plugins compatible for Editor in 0.95 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2023.2.20f1 (0e25a174756c)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity 2023.2.20f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/rturner007/Documents/GitHub/project-1-unity-3d-Para-Finn/AIProject/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 4070 (ID=0x2786)
+    Vendor:   NVIDIA
+    VRAM:     12012 MB
+    Driver:   32.0.15.6624
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity 2023.2.20f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity 2023.2.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity 2023.2.20f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56592
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity 2023.2.20f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity 2023.2.20f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002654 seconds.
+- Loaded All Assemblies, in  0.252 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.215 seconds
+Domain Reload Profiling: 465ms
+	BeginReloadAssembly (83ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (22ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (31ms)
+	LoadAllAssembliesAndSetupDomain (107ms)
+		LoadAssemblies (82ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (105ms)
+			TypeCache.Refresh (104ms)
+				TypeCache.ScanAssembly (95ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (215ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (185ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (6ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (3ms)
+			ProcessInitializeOnLoadAttributes (140ms)
+			ProcessInitializeOnLoadMethodAttributes (32ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\rturner007\Documents\GitHub\project-1-unity-3d-Para-Finn\AIProject\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\rturner007\Documents\GitHub\project-1-unity-3d-Para-Finn\AIProject\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.521 seconds
+Script 'Tree' has the same name as built-in Unity component.
+AddComponent and GetComponent will not work with this script.
+Refreshing native plugins compatible for Editor in 0.40 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.387 seconds
+Domain Reload Profiling: 906ms
+	BeginReloadAssembly (241ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (22ms)
+	RebuildCommonClasses (22ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (22ms)
+	LoadAllAssembliesAndSetupDomain (226ms)
+		LoadAssemblies (187ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (101ms)
+			TypeCache.Refresh (85ms)
+				TypeCache.ScanAssembly (76ms)
+			BuildScriptInfoCaches (12ms)
+			ResolveRequiredComponents (2ms)
+	FinalizeReload (387ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (271ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (26ms)
+			ProcessInitializeOnLoadAttributes (224ms)
+			ProcessInitializeOnLoadMethodAttributes (12ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.13 seconds
+Refreshing native plugins compatible for Editor in 0.46 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3162 unused Assets / (0.6 MB). Loaded Objects now: 3737.
+Memory consumption went from 103.5 MB to 102.8 MB.
+Total: 3.750700 ms (FindLiveObjects: 0.224900 ms CreateObjectMapping: 0.092200 ms MarkObjects: 2.901600 ms  DeleteObjects: 0.531300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1637500.685645 seconds.
+  path: Assets/Models/Finlay.fbx
+  artifactKey: Guid(1a12fb876a307c84b9491124244a2c95) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Models/Finlay.fbx using Guid(1a12fb876a307c84b9491124244a2c95) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'e1c1191a070bd69b0284268c21afa2dd') in 0.1171886 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 162
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Scripts/FinlayAI/CheckPalInRange.cs
+  artifactKey: Guid(e7f6c3d69ca520a4b8104c3468b59c4c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Scripts/FinlayAI/CheckPalInRange.cs using Guid(e7f6c3d69ca520a4b8104c3468b59c4c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '4519989bce1d124621c4cf2c0dc27e05') in 0.0059731 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/AnimatorControllers/Finley.controller
+  artifactKey: Guid(7aca20c47a0bcb748b606c5fddad52eb) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/AnimatorControllers/Finley.controller using Guid(7aca20c47a0bcb748b606c5fddad52eb) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '7725ac38845405165c4080f540cd97dd') in 0.007518 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '1a9a63d223db553d6fc3c55d4da99e47') in 0.0064531 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/Scripts/FinlayAI/BTFinlay.cs
+  artifactKey: Guid(1504bf8792da6a8418c5f62dce446231) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Scripts/FinlayAI/BTFinlay.cs using Guid(1504bf8792da6a8418c5f62dce446231) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '51cdcb97de13af67b4954026c0ee6b0a') in 0.0051806 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Scripts/FinlayAI/TaskBefirned.cs
+  artifactKey: Guid(781e0c3113cdbd341a06ee332172df22) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Scripts/FinlayAI/TaskBefirned.cs using Guid(781e0c3113cdbd341a06ee332172df22) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'f4de3615565e209e8bae2766b3c37894') in 0.0055756 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Models/Textures/texture.png
+  artifactKey: Guid(f5d408bad09408a469bd11a189c86649) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Models/Textures/texture.png using Guid(f5d408bad09408a469bd11a189c86649) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '9b19432686ad853b29671f034b18ed24') in 0.0255926 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000103 seconds.
+  path: Assets/Prehab/Finlay.prefab
+  artifactKey: Guid(0c61d77ab8ef3e4468b9cda2e2441ed6) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Prehab/Finlay.prefab using Guid(0c61d77ab8ef3e4468b9cda2e2441ed6) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '9448e4a4fbd76e329f1b2915089c521f') in 0.0204487 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 175
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Scripts/FinlayAI/TaskAttack.cs
+  artifactKey: Guid(1e0ade9b4ba0e5c43b9b8a964ecd8e0e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Scripts/FinlayAI/TaskAttack.cs using Guid(1e0ade9b4ba0e5c43b9b8a964ecd8e0e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '759848e10415407b0a90a81a5f9b621b') in 0.005707 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Scripts/Managers/FinlayManager.cs
+  artifactKey: Guid(fb3dd9c76b277fa47b2891866c36097e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Scripts/Managers/FinlayManager.cs using Guid(fb3dd9c76b277fa47b2891866c36097e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '87e2031f879965cdbc842739d6a8369c') in 0.0062521 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Models/Textures/Finlay_Texture (1) (3).png
+  artifactKey: Guid(25c43bca100e37949ba0df73d1f229e1) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Models/Textures/Finlay_Texture (1) (3).png using Guid(25c43bca100e37949ba0df73d1f229e1) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'baeaf7de616b775c3a4bb27d3e3be966') in 0.0089279 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/Prehab/Litlaly.prefab
+  artifactKey: Guid(fd9bacbada73d834bb56b6a818dff623) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Prehab/Litlaly.prefab using Guid(fd9bacbada73d834bb56b6a818dff623) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '0f691f992db91f3e33f6495fcf456e8a') in 0.0094502 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 166
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Scripts/FinlayAI/TaskGoToTarget.cs
+  artifactKey: Guid(b83bef98b726e1042b69f319a7aa21f8) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Scripts/FinlayAI/TaskGoToTarget.cs using Guid(b83bef98b726e1042b69f319a7aa21f8) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '758878ed89d1addd18918276271bccea') in 0.0051818 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Scripts/FinlayAI/TaskPatrol.cs
+  artifactKey: Guid(cde4a4433a2f47d4797f4496ba8bce43) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Scripts/FinlayAI/TaskPatrol.cs using Guid(cde4a4433a2f47d4797f4496ba8bce43) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '6bc897f4d08e77bc6911cd44cb3734bf') in 0.0058908 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Scripts/FirendlayAI/BTFriendlay.cs
+  artifactKey: Guid(52ee7ea02cdab8249b1144b0adf902e5) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Scripts/FirendlayAI/BTFriendlay.cs using Guid(52ee7ea02cdab8249b1144b0adf902e5) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b3f989eb716d8f85f9224a4c29b5f975') in 0.0051248 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Scripts/LillayAI/BTLitllay.cs
+  artifactKey: Guid(51103a3a1e0f2414982a798227368cae) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Scripts/LillayAI/BTLitllay.cs using Guid(51103a3a1e0f2414982a798227368cae) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '3fdfbe9b20a4c65025a4994cfd388055') in 0.0065127 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Prehab/Dragon.prefab
+  artifactKey: Guid(12fc19e0d415f4f4ca7df97842c7ccb3) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Prehab/Dragon.prefab using Guid(12fc19e0d415f4f4ca7df97842c7ccb3) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'e67fc7f59611bf00e11f80c12954aed9') in 0.009925 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 208
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Models/Materials/Firndly_Texture (1) (3) 1.mat
+  artifactKey: Guid(30cab3b744a166c4c95f46313533f1f5) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Models/Materials/Firndly_Texture (1) (3) 1.mat using Guid(30cab3b744a166c4c95f46313533f1f5) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b70e9401296cb9f96ba1a0e88669fe74') in 0.0102206 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Scripts/Managers/EnemyManager.cs
+  artifactKey: Guid(eec27350bba27fa4589eef1fa5a69781) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Scripts/Managers/EnemyManager.cs using Guid(eec27350bba27fa4589eef1fa5a69781) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '43720ba1b71a1d625d29b1f93bdca7ae') in 0.0062141 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Scripts/BehaviorTree/Node.cs
+  artifactKey: Guid(df5021242cf019d40bdf75820da6e90a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Scripts/BehaviorTree/Node.cs using Guid(df5021242cf019d40bdf75820da6e90a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '1b75757e6a9a50da41f6186ec0be0521') in 0.0075014 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Prehab/Firendly.prefab
+  artifactKey: Guid(0d64554f1c6ac174198213cba22bec73) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Prehab/Firendly.prefab using Guid(0d64554f1c6ac174198213cba22bec73) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '0b4d0d39d050a07c2e3214e8f4c89b04') in 0.0225644 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 308
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Models/Finlay (1).fbx
+  artifactKey: Guid(c6c725dbd7972614eafbb62d797048a5) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Models/Finlay (1).fbx using Guid(c6c725dbd7972614eafbb62d797048a5) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'f829397c5cba640793b57766924afa15') in 0.0208227 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 163
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/Models/Materials/Finlay_Texture (1) (3).mat
+  artifactKey: Guid(54c8c0a39bc4d8246ab8db319a3bb419) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Models/Materials/Finlay_Texture (1) (3).mat using Guid(54c8c0a39bc4d8246ab8db319a3bb419) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'd8e46794e186017abdbf01c050338211') in 0.0060279 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

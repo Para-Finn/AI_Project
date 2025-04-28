@@ -1,0 +1,19 @@
+using System.Collections.Generic;
+using BehaviorTree;
+
+public class BTDragon : Tree
+{
+    public UnityEngine.Transform[] waypoints;
+    public static float speed = 4f;
+    public static float sightRange = 1f;
+
+    protected override Node SetupTree()
+    {
+        Node root = new Selector(new List<Node>
+        {
+            new TaskPatrol(transform, waypoints),
+        });
+
+        return root;
+    }
+}
