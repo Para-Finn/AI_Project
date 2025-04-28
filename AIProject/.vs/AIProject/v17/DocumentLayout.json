@@ -1,26 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\rturner007\\Documents\\GitHub\\project-1-unity-3d-Para-Finn\\AIProject\\",
+  "WorkspaceRootPath": "C:\\Users\\rturner007\\Documents\\GitHub\\AI_Project\\AIProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ACF905E2-232B-B304-1A38-3D583AB3CA3A}|Assembly-CSharp.csproj|c:\\users\\rturner007\\documents\\github\\project-1-unity-3d-para-finn\\aiproject\\assets\\scripts\\managers\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACF905E2-232B-B304-1A38-3D583AB3CA3A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ACF905E2-232B-B304-1A38-3D583AB3CA3A}|Assembly-CSharp.csproj|c:\\users\\rturner007\\documents\\github\\ai_project\\aiproject\\assets\\scripts\\finlayai\\btfinlay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF905E2-232B-B304-1A38-3D583AB3CA3A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\finlayai\\btfinlay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACF905E2-232B-B304-1A38-3D583AB3CA3A}|Assembly-CSharp.csproj|c:\\users\\rturner007\\documents\\github\\project-1-unity-3d-para-finn\\aiproject\\assets\\scripts\\finlayai\\taskpatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ACF905E2-232B-B304-1A38-3D583AB3CA3A}|Assembly-CSharp.csproj|c:\\users\\rturner007\\documents\\github\\ai_project\\aiproject\\assets\\scripts\\dragonai\\dpatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF905E2-232B-B304-1A38-3D583AB3CA3A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dragonai\\dpatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF905E2-232B-B304-1A38-3D583AB3CA3A}|Assembly-CSharp.csproj|c:\\users\\rturner007\\documents\\github\\ai_project\\aiproject\\assets\\scripts\\dragonai\\btdragon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF905E2-232B-B304-1A38-3D583AB3CA3A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dragonai\\btdragon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF905E2-232B-B304-1A38-3D583AB3CA3A}|Assembly-CSharp.csproj|C:\\Users\\rturner007\\Documents\\GitHub\\AI_Project\\AIProject\\assets\\scripts\\finlayai\\taskpatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ACF905E2-232B-B304-1A38-3D583AB3CA3A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\finlayai\\taskpatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACF905E2-232B-B304-1A38-3D583AB3CA3A}|Assembly-CSharp.csproj|C:\\Users\\rturner007\\Documents\\GitHub\\project-1-unity-3d-Para-Finn\\AIProject\\assets\\scripts\\finlayai\\checkenemyinattackrange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACF905E2-232B-B304-1A38-3D583AB3CA3A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\finlayai\\checkenemyinattackrange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACF905E2-232B-B304-1A38-3D583AB3CA3A}|Assembly-CSharp.csproj|C:\\Users\\rturner007\\Documents\\GitHub\\project-1-unity-3d-Para-Finn\\AIProject\\assets\\scripts\\finlayai\\taskattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACF905E2-232B-B304-1A38-3D583AB3CA3A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\finlayai\\taskattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACF905E2-232B-B304-1A38-3D583AB3CA3A}|Assembly-CSharp.csproj|C:\\Users\\rturner007\\Documents\\GitHub\\project-1-unity-3d-Para-Finn\\AIProject\\assets\\scripts\\finlayai\\checkenemyinrange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACF905E2-232B-B304-1A38-3D583AB3CA3A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\finlayai\\checkenemyinrange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,69 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MenuManager.cs",
-              "DocumentMoniker": "C:\\Users\\rturner007\\Documents\\GitHub\\project-1-unity-3d-Para-Finn\\AIProject\\Assets\\Scripts\\Managers\\MenuManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\MenuManager.cs",
-              "ToolTip": "C:\\Users\\rturner007\\Documents\\GitHub\\project-1-unity-3d-Para-Finn\\AIProject\\Assets\\Scripts\\Managers\\MenuManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Managers\\MenuManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "BTDragon.cs",
+              "DocumentMoniker": "C:\\Users\\rturner007\\Documents\\GitHub\\AI_Project\\AIProject\\Assets\\Scripts\\DragonAI\\BTDragon.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DragonAI\\BTDragon.cs",
+              "ToolTip": "C:\\Users\\rturner007\\Documents\\GitHub\\AI_Project\\AIProject\\Assets\\Scripts\\DragonAI\\BTDragon.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DragonAI\\BTDragon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T04:22:21.524Z",
+              "WhenOpened": "2025-04-28T14:47:52.515Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CheckEnemyInRange.cs",
-              "DocumentMoniker": "C:\\Users\\rturner007\\Documents\\GitHub\\project-1-unity-3d-Para-Finn\\AIProject\\Assets\\Scripts\\FinlayAI\\CheckEnemyInRange.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\FinlayAI\\CheckEnemyInRange.cs",
-              "ToolTip": "C:\\Users\\rturner007\\Documents\\GitHub\\project-1-unity-3d-Para-Finn\\AIProject\\Assets\\Scripts\\FinlayAI\\CheckEnemyInRange.cs",
-              "RelativeToolTip": "Assets\\Scripts\\FinlayAI\\CheckEnemyInRange.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T02:43:37.219Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TaskPatrol.cs",
-              "DocumentMoniker": "C:\\Users\\rturner007\\Documents\\GitHub\\project-1-unity-3d-Para-Finn\\AIProject\\Assets\\Scripts\\FinlayAI\\TaskPatrol.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\FinlayAI\\TaskPatrol.cs",
-              "ToolTip": "C:\\Users\\rturner007\\Documents\\GitHub\\project-1-unity-3d-Para-Finn\\AIProject\\Assets\\Scripts\\FinlayAI\\TaskPatrol.cs",
-              "RelativeToolTip": "Assets\\Scripts\\FinlayAI\\TaskPatrol.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwA4AAAAeAAAA",
+              "Title": "DPatrol.cs",
+              "DocumentMoniker": "C:\\Users\\rturner007\\Documents\\GitHub\\AI_Project\\AIProject\\Assets\\Scripts\\DragonAI\\DPatrol.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DragonAI\\DPatrol.cs",
+              "ToolTip": "C:\\Users\\rturner007\\Documents\\GitHub\\AI_Project\\AIProject\\Assets\\Scripts\\DragonAI\\DPatrol.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DragonAI\\DPatrol.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T02:42:59.081Z",
+              "WhenOpened": "2025-04-28T14:47:20.554Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CheckEnemyInAttackRange.cs",
-              "DocumentMoniker": "C:\\Users\\rturner007\\Documents\\GitHub\\project-1-unity-3d-Para-Finn\\AIProject\\Assets\\Scripts\\FinlayAI\\CheckEnemyInAttackRange.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\FinlayAI\\CheckEnemyInAttackRange.cs",
-              "ToolTip": "C:\\Users\\rturner007\\Documents\\GitHub\\project-1-unity-3d-Para-Finn\\AIProject\\Assets\\Scripts\\FinlayAI\\CheckEnemyInAttackRange.cs",
-              "RelativeToolTip": "Assets\\Scripts\\FinlayAI\\CheckEnemyInAttackRange.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "BTFinlay.cs",
+              "DocumentMoniker": "C:\\Users\\rturner007\\Documents\\GitHub\\AI_Project\\AIProject\\Assets\\Scripts\\FinlayAI\\BTFinlay.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FinlayAI\\BTFinlay.cs",
+              "ToolTip": "C:\\Users\\rturner007\\Documents\\GitHub\\AI_Project\\AIProject\\Assets\\Scripts\\FinlayAI\\BTFinlay.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FinlayAI\\BTFinlay.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T02:31:10.062Z"
+              "WhenOpened": "2025-04-28T14:45:29.761Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "TaskAttack.cs",
-              "DocumentMoniker": "C:\\Users\\rturner007\\Documents\\GitHub\\project-1-unity-3d-Para-Finn\\AIProject\\Assets\\Scripts\\FinlayAI\\TaskAttack.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\FinlayAI\\TaskAttack.cs",
-              "ToolTip": "C:\\Users\\rturner007\\Documents\\GitHub\\project-1-unity-3d-Para-Finn\\AIProject\\Assets\\Scripts\\FinlayAI\\TaskAttack.cs",
-              "RelativeToolTip": "Assets\\Scripts\\FinlayAI\\TaskAttack.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAcAAAA",
+              "Title": "TaskPatrol.cs",
+              "DocumentMoniker": "C:\\Users\\rturner007\\Documents\\GitHub\\AI_Project\\AIProject\\Assets\\Scripts\\FinlayAI\\TaskPatrol.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FinlayAI\\TaskPatrol.cs",
+              "ToolTip": "C:\\Users\\rturner007\\Documents\\GitHub\\AI_Project\\AIProject\\Assets\\Scripts\\FinlayAI\\TaskPatrol.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FinlayAI\\TaskPatrol.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T02:30:13.616Z"
+              "WhenOpened": "2025-04-28T02:42:59.081Z",
+              "EditorCaption": ""
             }
           ]
         }

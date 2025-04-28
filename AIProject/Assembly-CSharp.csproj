@@ -66,8 +66,8 @@
     <Compile Include="Assets\Scripts\FirendlayAI\BTFriendlay.cs" />
     <Compile Include="Assets\Scripts\FinlayAI\TaskGoToPall.cs" />
     <Compile Include="Assets\Scripts\FinlayAI\TaskGoToTarget.cs" />
+    <Compile Include="Assets\Scripts\FirendlayAI\FPatrol.cs" />
     <Compile Include="Assets\Scripts\FinlayAI\CheckEnemyInRange.cs" />
-    <Compile Include="Assets\Scripts\LillayAI\BTLitllay.cs" />
     <Compile Include="Assets\Scripts\FinlayAI\TaskBefirned.cs" />
     <Compile Include="Assets\Scripts\BehaviorTree\Selector.cs" />
     <Compile Include="Assets\Scripts\BehaviorTree\Node.cs" />
@@ -75,6 +75,7 @@
     <Compile Include="Assets\Scripts\FinlayAI\TaskPatrol.cs" />
     <Compile Include="Assets\Scripts\FinlayAI\CheckPalInRange.cs" />
     <Compile Include="Assets\Scripts\Managers\EnemyManager.cs" />
+    <Compile Include="Assets\Scripts\DragonAI\DPatrol.cs" />
     <Compile Include="Assets\Scripts\Managers\FinlayManager.cs" />
     <Compile Include="Assets\Scripts\FinlayAI\CheckEnemyInAttackRange.cs" />
     <Compile Include="Assets\Scripts\DragonAI\BTDragon.cs" />

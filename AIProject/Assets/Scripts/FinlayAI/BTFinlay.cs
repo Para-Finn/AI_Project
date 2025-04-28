@@ -4,9 +4,9 @@ using BehaviorTree;
 public class BTFinlay : Tree
 {
     public UnityEngine.Transform[] waypoints;
-    public static float speed = 2f;
+    public static float speed = 3f;
     public static float sightRange = 6f;
-    public static float attackRange = 2f;
+    public static float attackRange = 3f;
 
     protected override Node SetupTree()
     {
